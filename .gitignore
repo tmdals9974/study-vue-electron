@@ -1,3 +1,8 @@
+package-lock.json
+
+# electron
+dist_electron
+
 # Logs
 logs
 *.log
