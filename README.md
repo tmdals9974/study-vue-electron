@@ -23,3 +23,6 @@ npm run electron:serve : 개발모드 실행 명령
 커스텀 빌드, 트레이 모드, 트레이 컨텍스트 메뉴, 커스텀 타이틀바, 로컬데이터베이스 데이터바인딩, 데이터 암호화
 
 ### 실행화면
+
+![image](https://user-images.githubusercontent.com/66045197/119281182-ab85da80-bc6f-11eb-820f-526e84b1a19b.png)  
+![image](https://user-images.githubusercontent.com/66045197/119281208-c6584f00-bc6f-11eb-8d6d-b829c69d865a.png)
